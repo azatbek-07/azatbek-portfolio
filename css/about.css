@@ -1,0 +1,36 @@
+.box {
+    width: 300px;
+    background-color: #f8f2f2;
+    border-radius: 20px;
+    margin: 20px;
+    /* border: 1px solid black; */
+    /* 1. */
+    /* padding: 20px; */
+
+    /* 2. */
+    /* padding: 20px 50px; */
+
+    /* 3. */
+    /* padding: 10px 20px 30px 40px; */
+
+    /* 4. */
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+
+
+    border-top-width: 2px;
+    border-top-color: red;
+    border-top-style: groove;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+img {
+    width: 100px;
+    border-radius: 50%;
+}
