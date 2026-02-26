@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.loyha {
+    width: 320px;
+    height: 350px;
+    border: 1px solid red;
+}
+
+.loyha img {
+    width: 100%;
+}
+
+.loyha a {
+    width: 100%;
+    background-color: blue;
+    border: 1px solid white;
+    color: white;
+    padding: 7px 90px;
+    border-radius: 11px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.loyha :hover {
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+}
